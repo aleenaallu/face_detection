@@ -1,0 +1,1 @@
+we perform is detecting faces in the image(photograph) or video stream.Created a computer vision system that recognizes faces using OpenCV and Python, Trained the system on a custom dataset of 100 images of 10 different people
